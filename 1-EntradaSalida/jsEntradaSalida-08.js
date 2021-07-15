@@ -20,10 +20,12 @@ function SacarResto()
 	divisor = parseInt(divisor);
 
 	
-	var resto = dividendo % divisor;
+	var resultado = dividendo % divisor;
+	
 
 
-	alert ("El resto es "+ resto);	
+
+	alert ("El resto es "+ resultado);	
 }
 
 
